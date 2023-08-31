@@ -1,5 +1,5 @@
 <%@ page import="java.sql.*" %>
-<%@ page import="dao.DBConnect" %>
+<%@ page import="study.s829.dao.DBConnect" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
     <head>

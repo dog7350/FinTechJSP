@@ -1,4 +1,4 @@
-package dao;
+package study.s829.dao;
 
 import java.sql.*;
 
