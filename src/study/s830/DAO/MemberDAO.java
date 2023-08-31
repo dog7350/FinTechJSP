@@ -93,7 +93,7 @@ public class MemberDAO {
     }
 
     public void update(MemberDTO dto) {
-        String sql = "UPDATE members02 SET pw=?, name=?, addr=? WHERE id=?";
+        String sql = "UPDATE members02 SET pwd=?, name=?, addr=? WHERE id=?";
 
         try {
             ps = con.prepareStatement(sql);
